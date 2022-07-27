@@ -1,4 +1,4 @@
-**Read in other languages: [Русский](README.md), [Polska](README.pl.md).**
+**Read task: [Task](README.ts.md).**
 
 # React homework template
 
